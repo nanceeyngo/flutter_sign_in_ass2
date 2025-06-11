@@ -4,7 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a simple sign-in application.
+
+Here is the link to my app preview (play url): https://appetize.io/app/b_iagk6zfx2m4z4v67uil5v3mz64
+Here is the correct password for sign in: mylogin1234
 
 A few resources to get you started if this is your first Flutter project:
 
