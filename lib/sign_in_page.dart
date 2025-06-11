@@ -49,7 +49,8 @@ class _SignInPageState extends State<SignInPage> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.purple,
-        title: Text('Sign In', style: TextStyle(color: Colors.white, fontSize: 25, fontWeight: FontWeight.bold),),
+        title: Text('Sign In', style: TextStyle(color: Colors.white,
+            fontSize: 25, fontWeight: FontWeight.bold),),
       ),
       body: Center(
         child: Column(
@@ -71,11 +72,11 @@ class _SignInPageState extends State<SignInPage> {
                 onPressed: handleSignIn,
                 child: Text('Sign In', style: TextStyle(fontSize: 20),)
             ),
-        SizedBox(height: 20),
-        Text(
-          message, style: TextStyle(fontSize: 20,
-          color: isError ? Colors.red : Colors.green,),
-        )
+          SizedBox(height: 20),
+          Text(
+            message, style: TextStyle(fontSize: 20,
+            color: isError ? Colors.red : Colors.green,),
+          )
           ],
         ),
       ),
