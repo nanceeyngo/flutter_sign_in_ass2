@@ -6,7 +6,7 @@ A new Flutter project.
 
 This is a simple sign-in application.
 
-Here is the link to my app preview (play url): https://appetize.io/app/b_iagk6zfx2m4z4v67uil5v3mz64
+Here is the link to my app preview (play url): https://appetize.io/app/b_ymj3go6p4lv5r4uroguwyrcuhy
 
 Here is the correct password for sign in: mylogin1234
 
